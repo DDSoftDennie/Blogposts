@@ -1,6 +1,6 @@
 # SHOCK! De kennis over toegankelijkheidsstandaarden
 
-Deze maand had ik mijn laatste conferentie voor mijn zomerstop. Eind augustus begin ik met deel twee van conferenties, netwerkmomenten en meetings in 2023. Dit voorjaar was ik op een tiental conferenties in België, Europa en de VS. Ik moet toch toegeven dat ik nog steeds gechoqueerd ben over de ontbrekende kennis over toegankelijkheid en algemene gepubliceerde, gevalideerde en erkende standaarden.
+Deze maand had ik mijn laatste conferentie voor mijn zomerstop. Eind augustus begin ik met deel twee van conferenties, netwerkmomenten en meetings in 2023. Dit voorjaar was ik op een tiental conferenties in België, Europa en de VS. Ik moet toch toegeven dat ik nog steeds gechoqueerd ben over de ontbrekende kennis over toegankelijkheid en de algemene gepubliceerde, gevalideerde en erkende standaarden over toegankelijkheid.
 
 ## Wat is toegankelijkheid?
 
@@ -24,7 +24,9 @@ Een beperking is een aandoening die een persoon heeft. Dit kan een aangeboren aa
 
 ## Ontmoet WCAG, de standaard voor digitale toegankelijkheid
 
-Het initiatief en consortium rond het internet die wij de dag van vandaag kennen (WWW: "World Wide Web" of Wereld Wijde Web) heeft al sinds jaar en dag een standaard voor digitale toegankelijkheid. Deze standaard heet WCAG ("Web Content Accessibility Guidelines" of Internet/web Inhoud Toegankelijkheid Richtlijnen). Deze standaard is een internationale standaard die door de meeste landen in de wereld wordt gebruikt. Deze standaard is ook de basis voor de Europese wetgeving rond digitale toegankelijkheid. Deze wetgeving is de Europese Accessibility Act. Deze wetgeving is in 2019 goedgekeurd en zal in 2025 van kracht zijn. Deze wetgeving is een minimum standaard. Dit wil zeggen dat landen in de Europese Unie deze wetgeving kunnen verstrengen maar niet kunnen versoepelen. De standaard heeft 4 categorieën en 3 levels van toegankelijkheid. De 4 categorieën zijn:
+Het initiatief en consortium rond het internet die wij de dag van vandaag kennen (WWW: "World Wide Web" of Wereld Wijde Web) heeft al sinds jaar en dag een standaard voor digitale toegankelijkheid. Deze standaard heet WCAG ("Web Content Accessibility Guidelines" of Internet/web Inhoud Toegankelijkheid Richtlijnen). Deze standaard is een internationale standaard die door de meeste landen in de wereld wordt gebruikt. Deze standaard is ook de basis voor de Europese wetgeving rond digitale toegankelijkheid. Deze wetgeving is de Europese Accessibility Act. Deze wetgeving is in 2019 goedgekeurd en zal in 2025 van kracht zijn. Deze wetgeving is een minimum standaard. Dit wil zeggen dat landen in de Europese Unie deze wetgeving kunnen verstrengen maar niet kunnen versoepelen.
+
+De standaard heeft 4 categorieën en 3 levels van toegankelijkheid. De 4 categorieën zijn:
 
     - Waarneembaarheid
     - Bedienbaarheid
@@ -58,7 +60,7 @@ De standaard is te vinden op de website van het W3C (World Wide Web Consortium).
 
 ## Hoe kan ik de standaard gebruiken?
 
-De komende periode zullen wij hier nog verschillende posts plaatsen over de specifieke categorieën van de standaarden. Hoe ze te begrijpen, testen en toe te passen. 
+De komende periode zullen wij hier nog verschillende posts plaatsen over de specifieke categorieën van de standaarden. Hoe ze te begrijpen, testen en toe te passen.
 
 Natuurlijk kunt u ook de shortcut nemen en ons een workshop laten geven. Wij geven workshops over de standaard en hoe deze toe te passen. Meer informatie over onze workshops vindt u op de volgende link: <https://ware.ddsoft.be/nl/vormingen/>
 
