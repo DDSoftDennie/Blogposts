@@ -37,7 +37,7 @@ And of course you can set the temperature to the maximum, let the LLM hallucinat
 
 To learn even more about Large Language Model (LLM) technology I went to Ben Hall & Barbara Fushinka's talk called: 'Large Language Models: An Overview and Integration into Your Workflow'. As software developers, as companies, organizations and businesses it's not about just going to a website of a public AI provider but it's about implementing the (not so?) magic in your own applications and workflows. This talk was all about this process. I will dig deeper about the technology family where LLM's live: Transformers.
 
-### Transformers
+#### Transformers
 
 Everything starts with the Model.
 To explain this concept I go a few years back in time when 'regular' AI showed up into cloud platforms and how software developers like me learned about the concept of AI compared to regular software development. If you write a program you write the logic. When applications are running there's an input flowing through your written logic and gives you the output. In fact here you can say that your program transforms the input via your written logic to the output.
@@ -52,17 +52,17 @@ And because I do believe that a better world created with AI is a more Inclusive
 
 Alex was an employer at a software company. After a while had the luck to form his own business from a pet project close to his heart. Alex is a gamer and has a nephew with a disability. Alex' passion in gaming and love for his sibling made him to create a pet project to make gaming more accessible. With AI models he captured gestures and translated them to keyboard and mouse input to control games.
 
-### Hackathons
+#### Hackathons
 
 The project got a boost when Alex subscribed to a hackathon. A hackathon is a competition where you create a software solution to a problem. Like in each good competition, winners gain a price. What I learned in this talk is that it's really possible to win quite a bunch of money when winning a hackathon. Winning the hackathon combined with his passion made him to start his own business.
 
-### The Solution
+#### The Solution
 
 The solution he build was training a model that recognizes specific gestures via your device camera and audio input and link this to macro's, shortcuts and different kind of controls. A person who's not able to use keyboard, mouse, touchscreen or controller via the regular way can use this solution to play games and have loads of fun.
 
 It uses Azure Cognitive Services, voice assistance services, custom Web API's and SignalR services from the Microsoft Azure Cloud.
 
-### Use Cases
+#### Use Cases
 
 You can smile, move your head left or right, shout to your device via a computer or laptop. There 's even an iteration that works via Snapchat. And of course: Current days require to be playable via Twitch. Of course Alex' solution does this too! Even more: different gamers can help each other via giving specific Twitch command's in the chat.
 
