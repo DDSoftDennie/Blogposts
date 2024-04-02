@@ -11,7 +11,7 @@
 
 'From Mediocracy to Excellence', narrative, too humble
 
-## The Advantage of scarcity of data
+## The Advantage of data scarcity
 
 Geopolitics, Privacy, trustworthy
 
