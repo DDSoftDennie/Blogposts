@@ -1,3 +1,0 @@
-              - name: Check Spelling (JS, Vue, HTML, Markdown, Text) [Forked][wordlist + spellcheck freedom]
-                uses: DDSoftDennie/spellcheck-github-actions@1.0
-          
