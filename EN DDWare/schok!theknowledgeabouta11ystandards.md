@@ -35,23 +35,23 @@ The standard has 4 categories and 3 levels of accessibility. The 4 categories ar
 
 The 3 levels are:
     - A
-    - AA 
+    - AA
     - AAA
 
 These levels are like steps. Level A is the bottom step of the stairs, level AA is the middle step of the stairs and level AAA is the top step of the stairs. Level A is the minimum standard you must meet to comply with the legislation. Level AA is the standard that most countries in the European Union use. Level AAA is the highest standard and is not used by most countries in the European Union. Level AAA is a standard you can use if you want to make a website, app, software package, online service, etc. accessible to everyone.
 
 ## The Standard Briefly Explained
 
-Perceivable: 
+Perceivable:
     - The content of a website, app, software package, online service, etc. must be perceptible to everyone. This means that this content must be perceptible to people with visual impairments, people with hearing impairments, people with cognitive impairments, etc. This can be done, for example, by using colors, contrasts, fonts, font sizes, etc.
 
-Operable: 
+Operable:
     - The content of a website, app, software package, online service, etc. must be operable for everyone. This means that this content must be operable for people with motor impairments, people with cognitive impairments, etc. This can be done, for example, by using keyboard navigation, mouse navigation, voice navigation, etc.
 
 Understandable:
      - The content of a website, app, software package, online service, etc. must be understandable for everyone. This means that this content must be understandable for people with cognitive impairments, people with visual impairments, etc. This can be done, for example, by using clear language, clear icons, etc.
 
-Robust: 
+Robust:
     - The content of a website, app, software package, online service, etc. must be robust for everyone. This means that this content must be robust for people with cognitive impairments, people with visual impairments, etc. This can be done, for example, by using good code, good structure, etc.
 
 ## Where Can I Find the Standard?
@@ -69,4 +69,3 @@ In addition we can also do consulting for your web project: https://ware.ddsoft.
 ## Conclusion
 
 There is a standard for digital accessibility that will also be enforced by law. But let accessibility not be an obligation. Let accessibility be a choice. A choice to let everyone participate in the digital world. A choice to let everyone participate in the digital economy. A choice to let everyone participate in the digital society. A choice to let everyone participate in the digital world of tomorrow.
-

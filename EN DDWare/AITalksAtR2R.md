@@ -24,8 +24,18 @@ Later on in this blogpost, I will share some concepts I learned at Research 2 Re
 
 ## The Advantage of data scarcity
 
-Geopolitics, Privacy, trustworthy
+To be honest, if I hear about scarcity, my first thoughts are very negative. Nobody wants to live in scarcity of assets or resources. But in the digital age, scarcity can be an advantage. The European Union is known for its strict privacy laws. This can be a competitive advantage for European companies. Let me take a moment to explain why.
+
+If you are building AI models, you need data. The more data you have, the easier it will be to build a good model. On the other hand, an AI model is the combination of data and algorithms. When you have less data than your competitors, you need to have better algorithms. This is where the European Union can have a competitive advantage.
+
+People are also more and more eager about their privacy. They want to know what happens with their data. They want to know if their data is safe. If European companies can guarantee this and in addition to this have AI solutions that are really good and productive, they will attract different customers. Customers that are willing to pay more for a product that is safe and trustworthy.
 
 ## AI for Medical Appliance: A EU Trademark?
 
-SustAInability, Accessibility, Medical
+Another field of interest for AI in Europe can be the Medical field. We need to admit, Europe has a great reputation in the medical field. We have great hospitals, great doctors and great research centers. In Europe, medical help is also way more affordable than other parts in the world. If we can combine this with AI, we can create a trademark for Europe in the field of AI for Medical Appliance.
+
+And here, again privacy laws and the scarcity of data can be an advantage. We can challenge companies to build AI models that are really good and productive with less data to use in the medical field for example.
+
+## Conclusion
+
+My journey to Research 2 Reality started with the importance of mindset. We need to move from a grants mindset to an entrepreneurial mindset. We need to see the benefits of sovereignty and sovereign computing in Europe. If we embrace the AI Laws and the scarcity of data, we can challenge mediocracy and create safe, trustworthy and sovereign AI models that can be a trademark for Europe and apply them in the medical field. We can be more patient-centric and solve challenges in the medical field with AI.
