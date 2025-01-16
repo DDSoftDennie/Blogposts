@@ -7,7 +7,7 @@ Als we websites, digitale infogrammen, grafieken, etc... maken is het belangrijk
 
 ## Hoe we kleuren zien
 
-Ik begin met een stukje theorie over hoe we kleuren zien. Ik leg jullie uit hoe we als mensen kleuren interpreteren via de magische samenwerking van onze ogen en hersenen. Deze kennis is belangrijk om te begrijpen waarom sommige kleurencombinaties moeilijk te lezen zijn voor sommige mensen.
+Ik begin met een stukje theorie over hoe we kleuren zien. Ik leg jullie uit hoe we als mensen kleuren interpreteren via de magische samenwerking van onze ogen en hersenen. Deze kennis is belangrijk om te begrijpen waarom sommige kleurencombinaties moeilijk te lezen zijn voor heel wat mensen.
 
 Uiteraard leg ik later in deze blog nog uit hoe je deze kennis kan gebruiken om je inhoud te testen op toegankelijke kleurencombinaties.
 
