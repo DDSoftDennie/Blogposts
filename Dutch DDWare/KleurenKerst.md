@@ -93,7 +93,7 @@ Je installeert de extensies door naar de instellingen te gaan en te zoeken naar 
 
 ### Microsoft Accessibility Insights
 
-Fouten in kleurcontrast ratio's kan je eenvoudig testen via de optie "Color contrast". Je kan deze optie vinden in de "FastPass" van de extensie. Fast Pass is een snelle manier om de toegankelijkheid van je website te testen. Je kan deze optie vinden in de extensie door op het icoontje van de extensie te klikken en dan op "FastPass" te klikken.
+Fouten in kleurcontrast ratio's kan je eenvoudig testen via de de "FastPass" van de extensie. FastPass is een snelle manier om de toegankelijkheid van je website te testen. Je kan deze optie vinden in de extensie door op het icoontje van de extensie te klikken en dan op "FastPass" te klikken.
 
 Nadat de test is uitgevoerd, krijg je een overzicht van de fouten. Je kan de fouten bekijken door op de fout te klikken. Je krijgt dan meer informatie over de fout en hoe je deze kan oplossen. Fouten in kleurcontrast ratio's worden weergegeven met het het volgende stukje in het vet "color-contrast". Alle kleurcontrast fouten komen in deze tab terecht. Je kan dan op het pijltje naast het nummer van het aantal fouten klikken om de fouten in detail te bekijken.
 
