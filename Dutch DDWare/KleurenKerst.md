@@ -62,7 +62,7 @@ Naast tools zijn er ook een paar eenvoudige technieken om aan te voelen als de k
 
 ## Toegankelijkheid
 
-Het WCAG (Web Content Accessibility Guidelines) is een internationale standaard voor toegankelijkheid van websites. Deze standaard bevat richtlijnen voor het ontwerpen van toegankelijke websites. Er zijn veel richtlijnen om alle aspecten van toegankelijkheid te dekken, waaronder kleurcontrast, waar we in deze blogpost dieper op ingaan.
+Het WCAG (Web Content Accessibility Guidelines) is een internationale standaard voor toegankelijkheid van websites. Deze standaard bevat richtlijnen voor het ontwerpen van toegankelijke websites. Er zijn tal van richtlijnen om alle aspecten van toegankelijkheid te dekken, waaronder kleurcontrast, waar we in deze blogpost dieper op ingaan.
 
 Zoals je in de introductie tot toegankelijkheid (in deze blog)[https://ware.ddsoft.be/nl/shock-de-kennis-over-toegankelijkheidsstandaarden/] kan zien zijn er 4 grote categorieën die belangrijk zijn om websites toegankelijk te maken. Kleurcontrast valt onder de categorie "Perceivable" of wel "Waarneembaarheid". In de nummering van de WCAG valt dit onder 1. Onder deze categorie vallen verschillende subcategorieën. De vierde categorie heet "Distinguishable" of "Onderscheidbaarheid". Als je deze nummers combineert heb je 1.4. Alle richtlijnen rond kleurgebruik vallen onder de categorie 1.4.
 
@@ -115,6 +115,18 @@ Als deze tool geopend is komt er aan de linker op kant van je scherm een paneel 
 
 Weet dat, mocht dit te technisch zijn, je altijd op ons beroep kan doen: [Consulting Toegankelijkheid](https://ware.ddsoft.be/nl/consulting-toegankelijkheid/).
 
+### Basistechnieken
+
+Hier bespreek ik nog zoals beloofd basis technieken om te redeneren over kleurcontrast. Deze technieken zijn vooral handig als je snel wilt testen of je kleurencombinaties een goed contrast hebben. 
+
+1. Zoals je weet zijn er dus 3 basis kleuren die door onze oog geïnterpreteerd worden: Groen, Rood en Blauw. Dit zijn de kleuren waarvoor we kegels in ons oog hebben. Dit zijn dan ook de kleuren waar het fout kan lopen als er een kegel ontbreekt. Plaats deze kleuren dus niet op elkaar.
+
+2. Je hebt ook gelezen dat helderheid belangrijk is. Plaats geen lichte kleuren op elkaar of donkere kleuren op elkaar. Dit maakt het moeilijk om de tekst te lezen. Zo is lichtgroen op lichtblauw geen goede combinatie. Donkeroranje op donkerblauw ook niet.
+
+3. Let op met wit en zwart. Denk volgens de helderheid. Wit op lichtgrijs is geen goede combinatie. Zwart op donkergrijs ook niet. Plaats ook geen wit op lichte kleuren (lichtgroen, lichtblauw, geel) en geen zwart op donkere kleuren (donkerblauw, donkergroen, donker oranje).
+
+Ook is het sterk afgeraden deze kleuren te combineren in een grafiek of infogram. Als je deze kleuren combineert in een grafiek of infogram, dan is de grafiek of infogram moeilijk te lezen voor mensen die kleurenblind zijn.
+
 
 ### Shortlist foute kleurencombinaties
 
@@ -143,9 +155,9 @@ Ook is het sterk afgeraden deze kleuren te combineren in een grafiek of infogram
 
 ## Conclusie
 
-In deze blogpost heb ik jullie bijgeleerd over hoe we kleuren zien en hoe we kleuren interpreteren. Ik heb jullie ook bijgeleerd over het belang van kleurcontrast en hoe je kleurcontrast kan testen volgens officiële standaarden. Ik heb jullie ook een shortlist gegeven van kleurencombinaties die je best vermijdt. Deze kleurencombinaties zijn moeilijk te onderscheiden voor mensen die kleurenblind zijn.
+In deze blogpost heb ik jullie bijgeleerd over hoe we kleuren zien en hoe we kleuren interpreteren. Ik heb jullie ook bijgeleerd over het belang van kleurcontrast en hoe je kleurcontrast kan testen volgens officiële standaarden. Daarnaast heb ik basistechnieken aangeleerd over hoe je kan nadenken over kleurencombinaties. Ik heb jullie ook een shortlist gegeven van kleurencombinaties die je best vermijdt. Deze kleurencombinaties zijn moeilijk te onderscheiden voor mensen die kleurenblind zijn.
 
-Verder kunnen jullie altijd beroep doen op onze Consulting Toegankelijkheid en/ of een [vorming volgen rond kleurtoegengelijkheid] (https://ware.ddsoft.be/nl/vormingen/error-404-kleur-niet-gevonden/) 
+Verder kunnen jullie altijd beroep doen op onze Consulting Toegankelijkheid en/ of een [vorming volgen rond kleuren toegankelijkheid] (https://ware.ddsoft.be/nl/vormingen/error-404-kleur-niet-gevonden/) 
 
 ## Bronnen
 
